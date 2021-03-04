@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55350" started-at="2019-09-17T09:05:44Z" finished-at="2019-09-17T09:06:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55350" started-at="2019-09-17T09:05:44Z" finished-at="2019-09-17T09:06:39Z">
+      <class name="messcreenshot.MesScreenshot">
+        <test-method status="PASS" signature="MesScreenshot()[pri:0, instance:messcreenshot.MesScreenshot@548e7350]" name="MesScreenshot" duration-ms="55312" started-at="2019-09-17T09:05:44Z" finished-at="2019-09-17T09:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MesScreenshot -->
+      </class> <!-- messcreenshot.MesScreenshot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
